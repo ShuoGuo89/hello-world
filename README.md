@@ -1,4 +1,4 @@
-# hello-world
+# Tweepy
 Hello World Example
 
-This is a test of branch.
+First Git Repository. Just for testing. Code found online for learning Tweepy. 
